@@ -26,7 +26,7 @@ Every hex becomes another step toward completing the campaign.
 
 See HexBoarding in action:
 
-▶️ Watch the HexBoarding Showcase
+[▶️ Watch the HexBoarding Showcase on YouTube](https://www.youtube.com/shorts/EKnqGyWTVUg)
 
 A short demonstration of the application and user experience.
 
